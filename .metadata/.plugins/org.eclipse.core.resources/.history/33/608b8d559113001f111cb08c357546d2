@@ -1,0 +1,13 @@
+package com.serratec.trabind.biblioteca.Trab_Individual;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TrabIndividualApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TrabIndividualApplication.class, args);
+	}
+
+}

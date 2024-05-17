@@ -1,0 +1,9 @@
+package com.serratec.trabind.biblioteca.exception;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+@ControllerAdvice
+public class ControllerExceptionHandler extends ResponseEntityExceptionHandler {
+	
+
+}
